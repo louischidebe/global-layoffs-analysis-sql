@@ -74,8 +74,8 @@ After cleaning, the dataset was analyzed to identify patterns and trends.
 
 ## Files
 
-- `layoffs_data_cleaning.sql` — Data cleaning and preparation  
-- `layoffs_EDA.sql` — Exploratory data analysis queries  
+- `01_layoffs_data_cleaning.sql` — Data cleaning and preparation  
+- `02_layoffs_analysis.sql` — Exploratory data analysis queries  
 - `layoffs_dump.sql` — Database dump file  
 
 ## Screenshots
