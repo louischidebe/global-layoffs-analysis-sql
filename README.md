@@ -78,6 +78,13 @@ After cleaning, the dataset was analyzed to identify patterns and trends.
 - `layoffs_EDA.sql` — Exploratory data analysis queries  
 - `layoffs_dump.sql` — Database dump file  
 
+## Screenshots
+
+### Data Cleaning
+![Data Cleaning](images/layoffs-data-cleaning.png)
+
+### Exploratory Data Analysis
+![EDA](images/layoffs-data-analysis.png)
 ---
 
 ## Tools Used
